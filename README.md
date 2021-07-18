@@ -53,61 +53,61 @@ New Top 5 schools based on % Overall Passing
 
 #### Math and reading scores by grade.
 
-    The only thing that is changed on both math and reading scores by grade is the output on the Thomas High School '9th' column is now 'nan'.
+The only thing that is changed on both math and reading scores by grade is the output on the Thomas High School '9th' column is now 'nan'.
 
-    Original Math score by grade
+Original Math score by grade
     
-    ![Old_by_math_grade](https://user-images.githubusercontent.com/84931545/126057944-450c83c9-a72b-46c0-aa8c-14fb92330821.PNG)
+![Old_by_math_grade](https://user-images.githubusercontent.com/84931545/126057944-450c83c9-a72b-46c0-aa8c-14fb92330821.PNG)
 
-    New Math score by grade
+New Math score by grade
 
-    ![New_by_math_grade](https://user-images.githubusercontent.com/84931545/126057951-66f25ee7-e7dc-4d16-86ae-ff1627c4e08b.PNG)
+![New_by_math_grade](https://user-images.githubusercontent.com/84931545/126057951-66f25ee7-e7dc-4d16-86ae-ff1627c4e08b.PNG)
 
-    Original Reading score by grade
+Original Reading score by grade
     
-    ![old_by_reading](https://user-images.githubusercontent.com/84931545/126057965-25c8fd48-73a9-4e40-93dd-bc2f697798e4.PNG)
+![old_by_reading](https://user-images.githubusercontent.com/84931545/126057965-25c8fd48-73a9-4e40-93dd-bc2f697798e4.PNG)
 
-    New Reading score by grade
+New Reading score by grade
 
-    ![new_by_reading](https://user-images.githubusercontent.com/84931545/126057973-e6386b91-64c9-43cc-95a6-fe5e910db431.PNG)
+![new_by_reading](https://user-images.githubusercontent.com/84931545/126057973-e6386b91-64c9-43cc-95a6-fe5e910db431.PNG)
 
 
 #### Scores by school spending
 
-    For the $630-$644 spending ranges (Per Student), % Passing Math increased from 67% to 73%, % Passing Reading increased from 77% to 84%, and % Overall Passing increased from 56% to 63%. 
+For the $630-$644 spending ranges (Per Student), % Passing Math increased from 67% to 73%, % Passing Reading increased from 77% to 84%, and % Overall Passing increased from 56% to 63%. 
 
-    Original school spending
+Original school spending
     
-    ![old_school_spending](https://user-images.githubusercontent.com/84931545/126057983-c4fc6925-da0a-4709-ac29-e724284e6c7d.PNG)
+![old_school_spending](https://user-images.githubusercontent.com/84931545/126057983-c4fc6925-da0a-4709-ac29-e724284e6c7d.PNG)
     
-    New school spending
+New school spending
 
-    ![new_school_spending](https://user-images.githubusercontent.com/84931545/126057987-84bc77aa-f122-431a-a9fc-24f7a9f3c409.PNG)
+![new_school_spending](https://user-images.githubusercontent.com/84931545/126057987-84bc77aa-f122-431a-a9fc-24f7a9f3c409.PNG)
 
 #### Scores by school size
 
-    For School Size Medium(1000-2000), % Passing Math increased from 88% to 94%, % Passing Reading increased from 91% to 97%, and % Overall Passing increased from 85% to 91%.
+For School Size Medium(1000-2000), % Passing Math increased from 88% to 94%, % Passing Reading increased from 91% to 97%, and % Overall Passing increased from 85% to 91%.
 
-    Original school Size
+Original school Size
     
-    ![Original_school_size](https://user-images.githubusercontent.com/84931545/126057989-81d68166-2c4e-4435-8841-c6f0b175100d.PNG)
+![Original_school_size](https://user-images.githubusercontent.com/84931545/126057989-81d68166-2c4e-4435-8841-c6f0b175100d.PNG)
 
-    New school Size
+New school Size
     
-    ![New_school_size](https://user-images.githubusercontent.com/84931545/126057995-1d6f2ce8-c0d2-4e4c-822f-2f974f31b665.PNG)
+![New_school_size](https://user-images.githubusercontent.com/84931545/126057995-1d6f2ce8-c0d2-4e4c-822f-2f974f31b665.PNG)
 
     
 #### Scores by school type
 
-    Charter school type is affected by the change since Thomas High School's school type is Charter. % Passing Math increased from 90% to 94%; % Passing Reading increased from 93% to 97%; % Overall Passing increased from 87% to 90%.
+Charter school type is affected by the change since Thomas High School's school type is Charter. % Passing Math increased from 90% to 94%; % Passing Reading increased from 93% to 97%; % Overall Passing increased from 87% to 90%.
 
-    Original scores by school type
+Original scores by school type
     
-    ![Original_school_type](https://user-images.githubusercontent.com/84931545/126058026-b548868e-a8f4-4a1f-984b-e7a1a10aa925.PNG)
+![Original_school_type](https://user-images.githubusercontent.com/84931545/126058026-b548868e-a8f4-4a1f-984b-e7a1a10aa925.PNG)
 
-    New scores by school type
+New scores by school type
     
-    ![New_school_type](https://user-images.githubusercontent.com/84931545/126058033-38ef6f3c-3bd8-496d-9f4e-fbd21b4ac84e.PNG)
+![New_school_type](https://user-images.githubusercontent.com/84931545/126058033-38ef6f3c-3bd8-496d-9f4e-fbd21b4ac84e.PNG)
 
 
 ## Summary
