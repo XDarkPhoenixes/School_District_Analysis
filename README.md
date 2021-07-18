@@ -111,3 +111,7 @@ New scores by school type
 
 
 ## Summary
+1. Without the 9th graders' scores, Thomas High School is more competitive than other schools as its % Passing Math, % Passing Reading, and % Overall Passing all rise.
+2. Without the 9th graders' scores, the district's percentage passing math/reading and percentage overall passing fell.
+3. Without the 9th graders' scores, increases in % Passing Math, % Passing Reading, and % Overall Passing were observed on Spending Range $630-644 schools and Medium-sized (1000-2000 students) schools categories of the corresponding metrics. 
+4. Charter school type became even more ahead than District school type on % Passing Math, % Passing Reading, and % Overall Passing after the removal of 9th graders' scores. 
