@@ -36,7 +36,7 @@ New school summary
 
 
 
-### How does replacing the ninth graders' math and reading score affect Thomas Hich School's performance relative to the other schools?
+### How does replacing the ninth graders' math and reading score affect Thomas High School's performance relative to the other schools?
 
 Originally Thomas High School is not one of the top 5 schools; Replacing the ninth grades' math and reading score make Thomas High School become one of the top five schools. It is the second best school based on % Overall Passing. 
 
