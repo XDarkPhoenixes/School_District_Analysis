@@ -7,7 +7,7 @@ After evidence of academic dishonesty was discovered for the reading and math gr
 
 ## Results
 
-- How is the district summary affected?
+### How is the district summary affected?
 
 Observing the two outputs of district summary, we can see that Average Math Score, % Passing Math, % Passing Reading and % Overall Pass all dropped. % Overall Pass has the largest decrease of 0.3%. 
 
@@ -20,21 +20,23 @@ New Result
 ![New_district_summary](https://user-images.githubusercontent.com/84931545/126057919-1a99d4a3-d45b-4048-acb9-ec0388ee624b.PNG)
 
 
-- How is the school summary affected?
+### How is the school summary affected?
+
 The only change is within Thomas High Schools statistics. 
 % Passing Math, % Passing Reading and % Overall Passing increased dramatically.
 % Passing Math increased from 66.911315% to 93.272171%, % Passing Reading increased from 69.663609% to 97.308869% and % Overall Passing increased from 65.076453% to 90.948012%. 
 
 Original school summary 
 
-![Old_school_summary](https://user-images.githubusercontent.com/84931545/126057924-88d1a9cb-276e-4bbe-be6c-8f127afc817e.PNG)
+![Old_school_summary](https://user-images.githubusercontent.com/84931545/126058116-7833cea8-bcac-4b83-801f-5b4dfc47572d.PNG)
 
 New school summary
 
-![New_school_summary](https://user-images.githubusercontent.com/84931545/126057927-5b5d6f31-4fd3-4fee-92a5-329af6a04326.PNG)
+![New_school_summary](https://user-images.githubusercontent.com/84931545/126058119-cc0388c4-acc8-461b-a0dd-8c83bfa1ae2f.PNG)
 
 
-- How does replacing the ninth graders' math and reading score affect Thomas Hich School's performance relative to the other schools?
+
+### How does replacing the ninth graders' math and reading score affect Thomas Hich School's performance relative to the other schools?
 
 Originally Thomas High School is not one of the top 5 schools; Replacing the ninth grades' math and reading score make Thomas High School become one of the top five schools. It is the second best school based on % Overall Passing. 
 
@@ -47,9 +49,9 @@ New Top 5 schools based on % Overall Passing
 ![New_top_5](https://user-images.githubusercontent.com/84931545/126057936-2e6fd2f4-af50-47e0-9d78-defd72372e66.PNG)
 
 
-- How does replacing the ninth-grade scores affect the following
+### How does replacing the ninth-grade scores affect the following
 
-    - Math and reading scores by grade.
+#### Math and reading scores by grade.
 
     The only thing that is changed on both math and reading scores by grade is the output on the Thomas High School '9th' column is now 'nan'.
 
@@ -70,7 +72,8 @@ New Top 5 schools based on % Overall Passing
     ![new_by_reading](https://user-images.githubusercontent.com/84931545/126057973-e6386b91-64c9-43cc-95a6-fe5e910db431.PNG)
 
 
-    - Scores by school spending
+#### Scores by school spending
+
     For the $630-$644 spending ranges (Per Student), % Passing Math increased from 67% to 73%, % Passing Reading increased from 77% to 84%, and % Overall Passing increased from 56% to 63%. 
 
     Original school spending
@@ -81,7 +84,8 @@ New Top 5 schools based on % Overall Passing
 
     ![new_school_spending](https://user-images.githubusercontent.com/84931545/126057987-84bc77aa-f122-431a-a9fc-24f7a9f3c409.PNG)
 
-    - Scores by school size
+#### Scores by school size
+
     For School Size Medium(1000-2000), % Passing Math increased from 88% to 94%, % Passing Reading increased from 91% to 97%, and % Overall Passing increased from 85% to 91%.
 
     Original school Size
@@ -93,7 +97,8 @@ New Top 5 schools based on % Overall Passing
     ![New_school_size](https://user-images.githubusercontent.com/84931545/126057995-1d6f2ce8-c0d2-4e4c-822f-2f974f31b665.PNG)
 
     
-    - Scores by school type
+#### Scores by school type
+
     Charter school type is affected by the change since Thomas High School's school type is Charter. % Passing Math increased from 90% to 94%; % Passing Reading increased from 93% to 97%; % Overall Passing increased from 87% to 90%.
 
     Original scores by school type
